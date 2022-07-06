@@ -5,12 +5,14 @@ body {
 
 h1 {
     font-size: 50px;
+    font-weight: bold;
 }
 
 .container {
     position: relative;
     text-align: center;
     color: white;
+
 }
 
 .text-format {
@@ -32,4 +34,81 @@ h1 {
     padding: 10px 40px;
     border-radius: 5px;
     color: white
+}
+
+
+
+.donate-text {
+    text-align-last: center;
+    font-size: 40px;
+    margin-top: 50px;
+    padding-top: 5px;
+
+}
+
+.donate-text2 {
+    text-align: center;
+    margin-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.Taka {
+    display: flex;
+
+    text-align: center;
+    justify-content: center;
+    border-radius: 50px;
+    border: 5px;
+    text-decoration-color: black;
+    border-bottom-right-radius: 40px;
+
+}
+
+.taka100 {
+    padding-left: 10px;
+    border-radius: 10px;
+
+
+}
+
+.taka200 {
+    padding-left: 20px;
+    border-color: brown;
+}
+
+.taka500 {
+    padding-left: 20px;
+}
+
+.taka1000 {
+    padding-left: 20px;
+}
+
+.taka5000 {
+    padding-left: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+
+
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+
+
+}
+
+.h2 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.Donate-button {
+    text-align: center;
+    padding-top: 20px;
 }
