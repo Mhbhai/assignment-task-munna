@@ -186,3 +186,26 @@ input {
 
 
 }
+
+.container-4 {
+    display: flex;
+    margin-top: 200px;
+}
+
+.they-need-img {
+    width: 80%;
+    height: 10px;
+    padding-left: 20px;
+    padding-right: 50px;
+    margin-top: 60px;
+}
+
+
+
+.they-need {
+    text-align: justify;
+    width: 80%;
+    height: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
